@@ -115,7 +115,7 @@ Shah & Anchor Kutchhi Engineering College | Aug 2022 – Jul 2026
 
 <div align="center">
 
-**Open to collaborating on innovative AI/ML projects or !**
+**Open to collaborating on innovative AI/ML projects!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tejaswiyadav14)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaswi14.work@gmail.com)
