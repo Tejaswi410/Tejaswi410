@@ -2,10 +2,10 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Data+Science+Enthusiast;Python+Developer;Machine+Learning+Engineer;Full+Stack+Developer)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Data+Science+Enthusiast;Python+Developer;Machine+Learning+Engineer;AI+Engineer)
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tejaswiyadav14)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejaswi410)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaswi14.work@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-link)
 
@@ -76,48 +76,6 @@ me.say_hi()
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
-
-## 🎯 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📈 Stockzyy
-**Stock Price Prediction & Analysis Platform**
-
-🔹 Predictive analytics using Facebook Prophet  
-🔹 Forecasts stock prices up to 365 days  
-🔹 Real-time data integration with yfinance  
-🔹 Interactive visualizations with Plotly  
-🔹 Cross-validation with accuracy metrics (MAPE, MAE, MSE, RMSE)
-
-**Tech:** Python • Streamlit • Prophet • Pandas • Plotly
-
-[View Project →](link-to-project)
-
-</td>
-<td width="50%">
-
-### 💭 Thinkly
-**Full-Stack Thought Sharing Platform**
-
-🔹 Secure user authentication system  
-🔹 CRUD operations for user-generated content  
-🔹 Image upload support  
-🔹 Mobile-responsive UI with Bootstrap 5  
-🔹 Efficient data handling with Django ORM
-
-**Tech:** Django • Bootstrap • Django-ORM • Git
-
-[View Project →](link-to-project)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 GitHub Stats
 
@@ -151,41 +109,22 @@ me.say_hi()
 Shah & Anchor Kutchhi Engineering College | Aug 2022 – Jul 2026  
 📍 Mumbai, India | **CGPA: 8.82** (up to Semester 6)
 
----
 
-## 🏆 Certifications
-
-- 🤖 **Artificial Intelligence and Machine Learning** - AICTE Eduskills
-- 🎯 **Streamlit Bootcamp** - Udemy
-- 🧠 **Get started with Generative AI** - Intel
-- 📊 **Data Structures & Algorithms** - Infosys Springboard
-- 🐍 **Python Programming** - Spoken Tutorial-IIT Bombay
-
----
-
-## 🌟 Soft Skills
-
-```
-✓ Teamwork & Collaboration    ✓ Problem-Solving    ✓ Adaptability
-✓ Clear Communication         ✓ Critical Thinking   ✓ Time Management
-```
-
----
 
 ## 📫 Let's Connect!
 
 <div align="center">
 
-**Open to collaborating on innovative AI/ML projects and full-stack applications!**
+**Open to collaborating on innovative AI/ML projects or !**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tejaswiyadav14)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaswi14.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejaswi410)
 
 ---
 
 ### ⚡ Fun Fact
-When I'm not coding, you'll find me exploring the latest AI trends or mentoring aspiring developers!
+When I'm not coding, you'll find me exploring the latest AI trends or binge watching crime thriller series/movies!
 
 ---
 
