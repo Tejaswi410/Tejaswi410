@@ -1,4 +1,5 @@
-# Hi there, I'm Tejaswi Yadav 👋
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,17,20,23&height=180&section=header&text=Tejaswi%20Yadav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Transforming%20Data%20into%20Intelligence%20|%20Building%20AI-Powered%20Solutions&descAlignY=51&descAlign=50"/>
 
 <div align="center">
   
