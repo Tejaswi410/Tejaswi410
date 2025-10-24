@@ -1,120 +1,204 @@
-Hi there 👋, I'm Tejaswi Yadav!
+# Hi there, I'm Tejaswi Yadav 👋
 
-<a href="https://github.com/Tejaswi410">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DTejaswi410%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat" alt="Tejaswi410 Profile Views" />
-</a>
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Data+Science+Enthusiast;Python+Developer;Machine+Learning+Engineer;Full+Stack+Developer)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaswi14.work@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-link)
 
-Innovative AI & Data Science student with a strong foundation in Python development, machine learning, and data visualization. Experienced in developing scalable, data-driven solutions with a focus on real-time application and predictive analytics.
+</div>
 
-🚀 Professional Focus & Goals
+---
 
-Key Focus Areas
+## 🚀 About Me
 
-Education & Experience
+```python
+class TejaswiYadav:
+    def __init__(self):
+        self.name = "Tejaswi Yadav"
+        self.role = "AI & Data Science Student"
+        self.location = "Mumbai, India"
+        self.education = "B.Tech in AI & Data Science (CGPA: 8.82)"
+        self.university = "Shah & Anchor Kutchhi Engineering College"
+        
+    def current_work(self):
+        return {
+            "learning": ["Machine Learning", "Deep Learning", "MLOps"],
+            "building": ["Data-driven solutions", "Scalable AI applications"],
+            "exploring": ["Generative AI", "Time Series Forecasting"]
+        }
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
 
-Current Goal: Developing and deploying robust AI/ML models and building efficient full-stack applications using Python frameworks.
+me = TejaswiYadav()
+me.say_hi()
+```
 
-B.Tech in AI & Data Science (CGPA: 8.82)
+> 💡 Innovative AI & Data Science student passionate about building data-driven solutions and deploying scalable AI/ML models. Strong advocate for clean code and impactful user experiences.
 
-Strengths: Python, Machine Learning, Data Visualization, Full-Stack Development (Django, FastAPI).
+---
 
-Instructor (Teaching Assistant) experience in Advanced Python & Web Development.
+## 💻 Tech Stack
 
-Seeking: Opportunities to collaborate on data science projects and contribute to scalable open-source tools.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Certifications: AI/ML Virtual Internship, Generative AI (Intel), Streamlit.
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-🛠️ Technical Skills
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-I categorize my tools and frameworks into three main buckets:
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-🐍 Core Languages & Frameworks
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Django-092E20%3Fstyle%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-009688%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dsqlite%26logoColor%3Dwhite" />
-</p>
+---
 
-📊 Data Science & Visualization
+## 🎯 Featured Projects
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Prophet_(Facebook)-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Matplotlib-323B58%3Fstyle%3Dfor-the-badge%26logo%3Dmatplotlib%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Plotly-2391F0%3Fstyle%3Dfor-the-badge%26logo%3Dplotly%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Streamlit-FF4B4B%3Fstyle%3Dfor-the-badge%26logo%3Dstreamlit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tableau-E97627%3Fstyle%3Dfor-the-badge%26logo%3Dtableau%26logoColor%3Dwhite" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-🌐 Frontend & Databases
+### 📈 Stockzyy
+**Stock Price Prediction & Analysis Platform**
 
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bootstrap-7952B3%3Fstyle%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-06B6D4%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Supabase-3ECF8E%3Fstyle%3Dfor-the-badge%26logo%3Dsupabase%26logoColor%3Dblack" />
-</p>
+🔹 Predictive analytics using Facebook Prophet  
+🔹 Forecasts stock prices up to 365 days  
+🔹 Real-time data integration with yfinance  
+🔹 Interactive visualizations with Plotly  
+🔹 Cross-validation with accuracy metrics (MAPE, MAE, MSE, RMSE)
 
-📂 Featured Projects
+**Tech:** Python • Streamlit • Prophet • Pandas • Plotly
 
-1. Stockzyy (Predictive Analytics & Visualization)
+[View Project →](link-to-project)
 
-Technologies: Python, Streamlit, Prophet, yfinance, Pandas, Plotly
+</td>
+<td width="50%">
 
-Key Achievement: Developed a predictive tool using Facebook Prophet to forecast stock prices up to 365 days.
+### 💭 Thinkly
+**Full-Stack Thought Sharing Platform**
 
-Impact: Provided real-time, historical data analysis and ensured forecast reliability using cross-validation with metrics like MAPE, MAE, MSE, and RMSE.
+🔹 Secure user authentication system  
+🔹 CRUD operations for user-generated content  
+🔹 Image upload support  
+🔹 Mobile-responsive UI with Bootstrap 5  
+🔹 Efficient data handling with Django ORM
 
-2. Thinkly (Full-Stack Web Application)
+**Tech:** Django • Bootstrap • Django-ORM • Git
 
-Technologies: Django, Bootstrap 5, Django-ORM
+[View Project →](link-to-project)
 
-Key Achievement: Built a secure, full-stack application featuring user authentication (login, register) and CRUD operations for user-generated content, including image uploads.
+</td>
+</tr>
+</table>
 
-Design: Implemented a clean, mobile-responsive UI using Bootstrap 5 for a seamless cross-device experience.
+---
 
-📈 My GitHub Activity
+## 📊 GitHub Stats
 
-GitHub Stats
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
 
-Top Languages
+</div>
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTejaswi410%26show_icons%3Dtrue%26theme%3Ddefault_dark%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Tejaswi410's GitHub Stats" />
+---
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTejaswi410%26layout%3Dcompact%26theme%3Ddefault_dark" alt="Tejaswi410's Top Languages" />
+## 💼 Experience
 
-<details>
-<summary>Click to view latest activity 🕰️</summary>
+### 🎓 Instructor (Teaching Assistant) | irobokid
+**Jun 2024 – Jan 2025 | Mumbai, India**
 
+- Facilitated hands-on sessions in **Advanced Python**, **Arduino**, and **web development**
+- Guided students through practical projects to strengthen problem-solving skills
+- Provided personalized mentorship with tailored support for troubleshooting
+- Enhanced student engagement through collaborative learning approaches
 
+---
 
+## 🎓 Education
 
+**B.Tech in Artificial Intelligence & Data Science**  
+Shah & Anchor Kutchhi Engineering College | Aug 2022 – Jul 2026  
+📍 Mumbai, India | **CGPA: 8.82** (up to Semester 6)
 
-<!-- This section shows your recent activity from your public events -->
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DTejaswi410%26theme%3Dreact-dark" alt="Tejaswi410's Activity Graph" />
-</details>
+---
 
-📧 Let's Connect!
+## 🏆 Certifications
 
-Platform
+- 🤖 **Artificial Intelligence and Machine Learning** - AICTE Eduskills
+- 🎯 **Streamlit Bootcamp** - Udemy
+- 🧠 **Get started with Generative AI** - Intel
+- 📊 **Data Structures & Algorithms** - Infosys Springboard
+- 🐍 **Python Programming** - Spoken Tutorial-IIT Bombay
 
-Link
+---
 
-LinkedIn
+## 🌟 Soft Skills
 
-[Add your LinkedIn URL here]
+```
+✓ Teamwork & Collaboration    ✓ Problem-Solving    ✓ Adaptability
+✓ Clear Communication         ✓ Critical Thinking   ✓ Time Management
+```
 
-Email
+---
 
-tejaswi14.work@gmail.com
+## 📫 Let's Connect!
 
-Coding Portfolio
+<div align="center">
 
-[Add your Portfolio URL here]
+**Open to collaborating on innovative AI/ML projects and full-stack applications!**
 
-GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaswi14.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
-@Tejaswi410
+---
+
+### ⚡ Fun Fact
+When I'm not coding, you'll find me exploring the latest AI trends or mentoring aspiring developers!
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+  
+  **💙 Thanks for visiting! Have a great day! 💙**
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+  
+</div>
