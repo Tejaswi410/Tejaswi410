@@ -3,12 +3,13 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Data+Science+Enthusiast;Python+Developer;Machine+Learning+Engineer;AI+Engineer)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=650&lines=Aspiring+AI+%26+ML+Engineer;Data+Science+Enthusiast;Building+Predictive+Models;Data+Analytics+and+Visualization)
+
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tejaswiyadav14)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejaswi410)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaswi14.work@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-link)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tejaswi410.github.io/my-portfolio/)
 
 </div>
 
@@ -29,7 +30,7 @@ class TejaswiYadav:
         return {
             "learning": ["Machine Learning", "Deep Learning", "MLOps"],
             "building": ["Data-driven solutions", "Scalable AI applications"],
-            "exploring": ["Generative AI", "Time Series Forecasting"]
+            "exploring": ["Generative AI", "LLMs","RAG"]
         }
     
     def say_hi(self):
@@ -51,19 +52,34 @@ me.say_hi()
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frameworks & Libraries
+### Frameworks & Deployment
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Data Science & ML
+
+### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Machine Learning & Deep Learning
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+![CNN](https://img.shields.io/badge/CNN-Convolutional_Neural_Networks-6A5ACD?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-Sequential_Models-6A5ACD?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-Long_Short_Term_Memory-7B68EE?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-Attention_Models-FF8C00?style=for-the-badge)
+![Transfer_Learning](https://img.shields.io/badge/Transfer_Learning-Pretrained_Models-2E8B57?style=for-the-badge)
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -71,10 +87,10 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
@@ -84,7 +100,7 @@ me.say_hi()
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejaswi410&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tejaswi410&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Tejaswi410)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswi410&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
 
@@ -97,7 +113,7 @@ me.say_hi()
 ### 🎓 Instructor (Teaching Assistant) | irobokid
 **Jun 2024 – Jan 2025 | Mumbai, India**
 
-- Facilitated hands-on sessions in **Advanced Python**, **Arduino**, and **web development**
+- Facilitated hands-on sessions in **Python**, **Arduino**, **Robotics**, and **web development**
 - Guided students through practical projects to strengthen problem-solving skills
 - Provided personalized mentorship with tailored support for troubleshooting
 - Enhanced student engagement through collaborative learning approaches
