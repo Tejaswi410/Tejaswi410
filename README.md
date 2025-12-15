@@ -100,8 +100,8 @@ me.say_hi()
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejaswi410&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Tejaswi410)
-  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejaswi410&show_icons=true&include_all_commits=true&count_private=true)
+
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswi410&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
 
 </div>
