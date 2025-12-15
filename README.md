@@ -113,10 +113,10 @@ me.say_hi()
 ### 🎓 Instructor (Teaching Assistant) | irobokid
 **Jun 2024 – Jan 2025 | Mumbai, India**
 
-- Facilitated hands-on sessions in **Python**, **Arduino**, **Robotics**, and **web development**
-- Guided students through practical projects to strengthen problem-solving skills
-- Provided personalized mentorship with tailored support for troubleshooting
-- Enhanced student engagement through collaborative learning approaches
+ Facilitated hands-on sessions in **Python**, **Arduino**, **Robotics**, and **web development**
+ Guided students through practical projects to strengthen problem-solving skills
+ Provided personalized mentorship with tailored support for troubleshooting
+ Enhanced student engagement through collaborative learning approaches
 
 ---
 
