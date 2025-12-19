@@ -97,14 +97,18 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejaswi410&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejaswi410&show_icons=true&include_all_commits=true&count_private=true)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswi410&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
+   <!-- Main GitHub Stats -->
+  ![Tejaswi'sGitHubStats](https://githubreadmestats.vercel.app/apiusername=Tejaswi410&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF&include_all_commits=true&count_private=true)
+
+  <!-- GitHub Streak -->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tejaswi410&theme=radical&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)
+
+  <!-- Top Languages -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswi410&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF)
 
 </div>
+
 
 ---
 
